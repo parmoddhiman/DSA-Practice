@@ -11,5 +11,6 @@ public class Day1 {
             e.printStackTrace();
         }
         driver.get("https://www.facebook.com");
+        driver.get("https://www.youtube.com");
     }
 }
